@@ -405,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531116167720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初始化2">
+      <created>1531116369485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531116369485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -440,7 +447,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="初始化2" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
